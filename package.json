@@ -1,0 +1,27 @@
+{
+  "name": "angellxr",
+  "version": "0.0.1",
+  "description": "An open XR library for connecting the Metaverse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngellXR/angellxr.git"
+  },
+  "keywords": [
+    "XR",
+    "Metaverse",
+    "WebXR",
+    "VR",
+    "angellxr",
+    "angell"
+  ],
+  "author": "Various <jesse@alton.tech> (https://angellxr.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngellXR/angellxr/issues"
+  },
+  "homepage": "https://github.com/AngellXR/angellxr#readme"
+}
