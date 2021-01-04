@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/AngellXR/angellxr/issues"
   },
-  "homepage": "https://github.com/AngellXR/angellxr#readme"
+  "homepage": "https://github.com/AngellXR/angellxr#readme",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
 }
