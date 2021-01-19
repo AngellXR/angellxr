@@ -1,6 +1,6 @@
 {
   "name": "angellxr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An open XR library for connecting the Metaverse.",
   "main": "index.js",
   "scripts": {
